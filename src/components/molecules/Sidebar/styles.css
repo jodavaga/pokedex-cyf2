@@ -1,0 +1,11 @@
+.sidebar-wrapper {
+  width: 30%;
+  height: 300px;
+  border: 1px solid gray
+}
+
+li {
+  cursor: pointer;
+  list-style: none;
+  margin: 5px 0;
+}
